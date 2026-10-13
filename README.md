@@ -1,2 +1,2 @@
-# prueba_manuel
-Repositorio de prueba 2ASIR
+# Ejercicio: Introducción a Markdown (v2)
+Peluquería ejemplo
